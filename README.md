@@ -11,3 +11,6 @@ You are welcome to add suggestions through pull-requests :)
 ```markdown
 $ git config --global commit.template ~/.git_commit_msg.txt
 ```
+
+### Templates included
+- Commit message
