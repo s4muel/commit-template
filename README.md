@@ -12,8 +12,9 @@ Never let anyone make you read horrible commit messages ever agian!
 
 1. Clone Repo  
   `git clone https://github.com/Gurran/commit-template.git`
+  
 2. Run installer  
- `sudo sh commit-template/install.sh`
+ `cd commit-template && sudo sh install.sh`
 2. Done!
 
 
