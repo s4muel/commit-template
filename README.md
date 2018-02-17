@@ -2,7 +2,7 @@
 
 Are you tired of diffuse and unclear commit messages? Do you wish everyone could wrirte as perfect and beautiful commit messages as you? Well now you CAN! 
 
-Tell all known commit cullprits of this repo and make them install this functional and if I say so myself, _perfect_ commti template.
+Tell all known commit cullprits of this repo and make them install this functional and if I say so myself, _perfect_ commit template.
 
 After installing this template the previoulsy lousy-written commit messages will (from now on out) be replaced with __detailed__, __descriptive__ and __*Well formatted*__ commit messages.
 
