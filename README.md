@@ -8,6 +8,9 @@ After installing this template the previoulsy lousy-written commit messages will
 
 Never let anyone make you read horrible commit messages ever agian!
 
+![Example using Vim](https://i.imgur.com/u5N34aP.png)
+
+
 ### How to install 
 
 1. Clone Repo  
