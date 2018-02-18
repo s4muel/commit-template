@@ -7,5 +7,5 @@ mv .git_commit_msg ~/.git_commit_msg
 # Clean-up
 TMP=`pwd`
 cd ..
-sudo rm -rf $TMP
+sudo rm -rif $TMP
 
