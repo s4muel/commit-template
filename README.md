@@ -6,7 +6,7 @@ Tell all known commit cullprits of this repo and make them install this function
 
 After installing this template the previoulsy lousy-written commit messages will (from now on out) be replaced with __detailed__, __descriptive__ and __*Well formatted*__ commit messages.
 
-Never let anyone make you read horrible commit messages ever agian!
+Never let anyone make you read horrible commit messages ever again!
 
 ![Example using Vim](https://i.imgur.com/u5N34aP.png)
 
