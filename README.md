@@ -1,6 +1,6 @@
 ### No more useless commit messages!
 
-Are you tired of diffuse and unclear commit messages? Do you wish everyone could wrirte as perfect and beautiful commit messages as you? Well now you CAN! 
+Are you tired of diffuse and unclear commit messages? Do you wish everyone could write as perfect and beautiful commit messages as you? Well now you CAN! 
 
 Tell all known commit cullprits of this repo and make them install this functional and if I say so myself, _perfect_ commit template.
 
